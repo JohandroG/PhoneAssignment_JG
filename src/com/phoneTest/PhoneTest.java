@@ -14,6 +14,5 @@ public class PhoneTest {
 		iphoneX.displayInfo();
 		System.out.println(iphoneX.ring());
 		System.out.println(iphoneX.unlock());
-		
 	}
 }
